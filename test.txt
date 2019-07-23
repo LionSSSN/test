@@ -1,3 +1,3 @@
 Using ssh to connect github 
-change some thing add some thing on master
-add some thing on branch dev
+change some thing add some thing on master 
+change some thing add some by dev
